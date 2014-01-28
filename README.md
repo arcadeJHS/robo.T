@@ -26,10 +26,10 @@ How to use
     * [**palette** (object)]: an optional map of colors used to draw the robot:
     ```javascript
     var palette = {
-        background: "#eee",
-        fill: "#6b6b6b",
-        stroke: "#454343",
-        eye_fill: ["#38282d", "#fc0", "f00"]
+        	background: "#eee",
+        	fill: "#6b6b6b",
+        	stroke: "#454343",
+        	eye_fill: ["#38282d", "#fc0", "f00"]
     }
     ```
     
