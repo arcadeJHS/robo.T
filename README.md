@@ -72,9 +72,7 @@ How to use
     ```javascript
     var scale = 0.5
     ```
-    
 4. Init the robot:
-
 ```javascript
 RBT.init(params);
 ```
