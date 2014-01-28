@@ -74,6 +74,7 @@ How to use
     ```
     
 4. Init the robot:
+
 ```javascript
 RBT.init(params);
 ```
